@@ -12,6 +12,14 @@
     <PackageTags>AsyncCommand, Mvvm Command, ICommand, WPF Command, UWP Command, Xamarin Command,Uno Command,Delegate Command</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>Async Command for WPF, UWP,Uno Platform and Xamarin apps.</Description>
+    <PackageIcon>eco electricity-Hy0n-QOtU.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\eco electricity-Hy0n-QOtU.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
