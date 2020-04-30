@@ -5,7 +5,11 @@
     <Authors>Avnish Kumar</Authors>
     <Product>Mvvm Async Command</Product>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/avikeid2007/AsyncCommand</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/avikeid2007/AsyncCommand</PackageProjectUrl>
+    <RepositoryType>Public</RepositoryType>
+    <PackageTags>AsyncCommand, Mvvm Command, ICommand, WPF Command, UWP Command, Xamarin Command,Uno Command,Delegate Command</PackageTags>
   </PropertyGroup>
 
 </Project>
