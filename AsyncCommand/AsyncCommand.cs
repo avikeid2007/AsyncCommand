@@ -1,9 +1,9 @@
-﻿using MvvmAsyncCommands.Abstraction;
+﻿using AsyncCommands.Abstraction;
 using System;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace MvvmAsyncCommand
+namespace AsyncCommands
 {
     public class AsyncCommand : IAsyncCommand
     {

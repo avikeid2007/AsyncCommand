@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Threading.Tasks;
-using System.Windows.Input;
 
-namespace MvvmAsyncCommands.Abstraction
+namespace AsyncCommands.Abstraction
 {
     public interface IErrorHandler
     {
